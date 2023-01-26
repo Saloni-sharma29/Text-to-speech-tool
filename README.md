@@ -1,5 +1,5 @@
 # Text-to-speech-tool
-![FrontLook](https://user-images.githubusercontent.com/31382550/214817456-24ba8009-a49f-47f7-a5bb-806e053b5412.PNG)
+![FrontLook](https://user-images.githubusercontent.com/31382550/214817952-3fa3eabe-6410-4bac-9ae3-cba4a7505e7d.PNG)
 
 In this era, we know that the primary building block of any communication is speech, so 
 there is no communication establishment without saying anything. So we see the importance of 
